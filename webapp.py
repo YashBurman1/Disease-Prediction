@@ -7,7 +7,7 @@ Created on Fri Feb  2 14:12:57 2024
 import numpy as np
 import pickle
 import streamlit as st
-#import sklearn
+import sklearn
 st.set_page_config(layout="wide")
 
 loaded_model = pickle.load(open("trained_model.sav","rb"))
