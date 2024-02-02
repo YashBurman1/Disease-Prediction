@@ -4,7 +4,6 @@ Created on Fri Feb  2 14:12:57 2024
 
 @author: Sreejit
 """
-python -m pip install sikit-learn
 import numpy as np
 import pickle
 import streamlit as st
