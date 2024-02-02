@@ -6,7 +6,8 @@ This is a temporary script file.
 """
 
 import numpy as np
-import pickle 
+import pickle
+import sklearn
 #from sklearn import OrdinalEncoder
 #from sklearn.ensemble import ExtraTreesRegressor
 
